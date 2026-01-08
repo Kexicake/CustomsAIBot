@@ -19,8 +19,8 @@
    ```env
    TELEGRAM_BOT_TOKEN=ваш_токен_бота
    OPENROUTER_API_KEY=ваш_ключ_openrouter
-   OPENROUTER_MODEL=deepseek/deepseek-chat
-   OPENROUTER_BASE_URL=https://openrouter.ai/api/v1
+   OPENROUTER_MODEL=nex-agi/deepseek-v3.1-nex-n1:free
+   OPENROUTER_BASE_URL=https://openrouter.ai/api/v1/chat/completions
    ```
 
 ## Запуск
